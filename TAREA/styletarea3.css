@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    color: aliceblue;
+}
+h1{
+    font-size: 200px;
+    font-family: Exo;
+}
+p{
+    font-size: 48px;
+    font-family: Montserrat;
+}
+
+#diseñadora{
+    color: rgb(189, 58, 123);
+}
+#multimedial{
+    color: rgb(197, 6, 245);
+}
+#programadora{
+    color: coral;
+}

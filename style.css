@@ -1,0 +1,39 @@
+/*Comentarios*/
+body{
+    background-color: pink;
+}
+
+h1{
+    color: white;
+}
+
+p{
+
+}
+
+/*Selectores de clase
+"A TODOS LOS ELEMENTOS QUE TENGAN CLASES APLICALES ESTOS ESTILOS"*/
+
+.parrafo-color{
+    color: rgba(190, 103, 190, 0.664);
+}
+
+/*snake case:
+parrafo_unico 
+
+kebab case:
+parrafo-unico 
+
+camel case:
+parrafoUnico*/
+
+/*Selector de identificador
+"A TODOS LOS ELEMENTOS QUE TENGAN ID APLICALES ESTOS ESTILOS"*/
+
+#parrafo-unico{
+    color: black;
+
+}
+
+
+
